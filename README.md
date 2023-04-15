@@ -2,7 +2,7 @@
 # pacman.c
 
 Objetivo: 
-Este é um projeto desenvolvido em C com o objetivo de aprender lógica de programação, ponteiros, structs e modularização.
+Este é um projeto desenvolvido em C com o objetivo de aprender lógica de programação, ponteiros, structs e modularização, funções recursivas, diretivas , etc.
 
 Jogo de console simples chamado Fogefoge, no qual o jogador controla um personagem em um labirinto com o objetivo de  fugir dos inimigos.
 
